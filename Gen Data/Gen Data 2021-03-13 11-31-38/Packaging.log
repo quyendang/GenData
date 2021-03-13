@@ -1,0 +1,105 @@
+2021-03-13 04:31:34 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fc97d8b84a0; archive(resolved)='<IDEArchive: 0x7fc9807892e0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fc97d8b84a0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fc97d8efcf0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc9909c5ff0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc9953044d0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc97f3fceb0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc981130020; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc981147740; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc97f3190d0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fc98ecb95f0; teamID='MMMG6T3Z8H', teamName='Quyen Dang', teamType='Individual', username='dangtkhuong@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fc97e2ee6d0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='(null)'>
+	<IDEDistributionContext: 0x7fc97e6d1760; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='<IDEDistributionMethodDevelopmentSignedMac: 0x7fc97f493410>', team='(null)'>
+	<IDEDistributionContext: 0x7fc97d8dbde0; archive = '<IDEArchive: 0x7fc9807892e0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fc97d8b84a0>
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionCopyItemStep
+2021-03-13 04:31:34 +0000  Running /usr/bin/ditto '-V' '/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app' '/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app'
+2021-03-13 04:31:34 +0000  >>> Copying /Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app 
+2021-03-13 04:31:34 +0000  copying file ./Contents/_CodeSignature/CodeResources ... 
+2021-03-13 04:31:34 +0000  4768 bytes for ./Contents/_CodeSignature/CodeResources
+2021-03-13 04:31:34 +0000  copying file ./Contents/MacOS/Gen Data ... 
+2021-03-13 04:31:34 +0000  3199056 bytes for ./Contents/MacOS/Gen Data
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/doi.mp3 ... 
+26157 bytes for ./Contents/Resources/doi.mp3
+copying file ./Contents/Resources/dem.mp3 ... 
+2021-03-13 04:31:34 +0000  28077 bytes for ./Contents/Resources/dem.mp3
+copying file ./Contents/Resources/add.txt ... 
+2021-03-13 04:31:34 +0000  7212 bytes for ./Contents/Resources/add.txt
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/AppIcon.icns ... 
+2021-03-13 04:31:34 +0000  58143 bytes for ./Contents/Resources/AppIcon.icns
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib ... 
+2021-03-13 04:31:34 +0000  36459 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib ... 
+2021-03-13 04:31:34 +0000  33576 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib ... 
+2021-03-13 04:31:34 +0000  4086 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-03-13 04:31:34 +0000  445 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/Assets.car ... 
+2021-03-13 04:31:34 +0000  1050120 bytes for ./Contents/Resources/Assets.car
+2021-03-13 04:31:34 +0000  copying file ./Contents/Resources/ok.mp3 ... 
+2021-03-13 04:31:34 +0000  23469 bytes for ./Contents/Resources/ok.mp3
+copying file ./Contents/Info.plist ... 
+2021-03-13 04:31:34 +0000  1604 bytes for ./Contents/Info.plist
+2021-03-13 04:31:34 +0000  copying file ./Contents/PkgInfo ... 
+2021-03-13 04:31:34 +0000  8 bytes for ./Contents/PkgInfo
+2021-03-13 04:31:34 +0000  /usr/bin/ditto exited with 0
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-03-13 04:31:34 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fc9810d9b10; bundleID='com.appbyquyen.Gen-Data', path='<DVTFilePath:0x7fc97cb59270:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fc980d3d7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fc9808fcff0; name='Apple Development: Quyen Dang (7TZ3DMV7UN)', hash='E7D096767EABA49206AD9BA1E8542CF4D2DA48B0', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fc97c155f10>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-29 14:02:53 +0000''>', entitlements='{
+}', teamID='MMMG6T3Z8H', identifier='com.appbyquyen.Gen-Data', executablePath='<DVTFilePath:0x7fc97cbe7ed0:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app/Contents/MacOS/Gen Data'>', hardenedRuntime='1'>'>
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-03-13 04:31:34 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-03-13 04:31:34 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-03-13 04:31:34 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionSymbolsStep
+2021-03-13 04:31:34 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionAppThinningStep
+2021-03-13 04:31:34 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionArchThinningStep
+2021-03-13 04:31:34 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app/Contents/MacOS/Gen Data' '-verify_arch' 'arm64e'
+2021-03-13 04:31:34 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-03-13 04:31:34 +0000  Skipping architecture thinning for item "Gen Data" because arch "arm64e" wasn't found
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionODRStep
+2021-03-13 04:31:34 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-03-13 04:31:34 +0000  Running /usr/bin/xattr '-crs' '/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app'
+2021-03-13 04:31:35 +0000  /usr/bin/xattr exited with 0
+2021-03-13 04:31:35 +0000  Processing step: IDEDistributionCodesignStep
+2021-03-13 04:31:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc9810d9b10; bundleID='com.appbyquyen.Gen-Data', path='<DVTFilePath:0x7fc97cb59270:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fc980d3d7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fc97f393650; name='Apple Development: Quyen Dang (7TZ3DMV7UN)', hash='E7D096767EABA49206AD9BA1E8542CF4D2DA48B0', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fc98e792ad0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-29 14:02:53 +0000''>', entitlements='{
+}', teamID='MMMG6T3Z8H', identifier='com.appbyquyen.Gen-Data', executablePath='<DVTFilePath:0x7fc97cbe7ed0:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app/Contents/MacOS/Gen Data'>', hardenedRuntime='1'>'>: {
+}
+2021-03-13 04:31:35 +0000  Entitlements for <IDEDistributionItem: 0x7fc9810d9b10; bundleID='com.appbyquyen.Gen-Data', path='<DVTFilePath:0x7fc97cb59270:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fc980d3d7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fc980b8c890; name='Apple Development: Quyen Dang (7TZ3DMV7UN)', hash='E7D096767EABA49206AD9BA1E8542CF4D2DA48B0', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fc98e79bf90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-29 14:02:53 +0000''>', entitlements='{
+}', teamID='MMMG6T3Z8H', identifier='com.appbyquyen.Gen-Data', executablePath='<DVTFilePath:0x7fc97cbe7ed0:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app/Contents/MacOS/Gen Data'>', hardenedRuntime='1'>'> are: {
+}
+2021-03-13 04:31:35 +0000  Writing entitlements for <IDEDistributionItem: 0x7fc9810d9b10; bundleID='com.appbyquyen.Gen-Data', path='<DVTFilePath:0x7fc97cb59270:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fc980d3d7f0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fc980bba040; name='Apple Development: Quyen Dang (7TZ3DMV7UN)', hash='E7D096767EABA49206AD9BA1E8542CF4D2DA48B0', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fc98e78b730>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-06-29 14:02:53 +0000''>', entitlements='{
+}', teamID='MMMG6T3Z8H', identifier='com.appbyquyen.Gen-Data', executablePath='<DVTFilePath:0x7fc97cbe7ed0:'/Users/quyen/Library/Developer/Xcode/Archives/2021-03-13/Gen Data 13-03-2021, 11.31.xcarchive/Products/Applications/Gen Data.app/Contents/MacOS/Gen Data'>', hardenedRuntime='1'>'> to: /var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/entitlements~~~HKTdQt
+2021-03-13 04:31:35 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'E7D096767EABA49206AD9BA1E8542CF4D2DA48B0' '--entitlements' '/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/entitlements~~~HKTdQt' '--preserve-metadata=identifier,flags,runtime' '/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app'
+2021-03-13 04:31:35 +0000  /var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app: replacing existing signature
+2021-03-13 04:31:35 +0000  /var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app: signed app bundle with Mach-O universal (x86_64 arm64) [com.appbyquyen.Gen-Data]
+2021-03-13 04:31:35 +0000  /usr/bin/codesign exited with 0
+2021-03-13 04:31:35 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-03-13 04:31:35 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-03-13 04:31:35 +0000  Processing step: IDEDistributionSkipPackagingStep
+2021-03-13 04:31:35 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-03-13 04:31:35 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-03-13 04:31:35 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-03-13 04:31:35 +0000  IDEDistributionItem init <DVTFilePath:0x7fc97c292240:'/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app'>
+2021-03-13 04:31:35 +0000  [OPTIONAL] Didn't find embedded provisioning profile for <DVTFilePath:0x7fc97c292240:'/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app'>: Error Domain=NSCocoaErrorDomain Code=4 "No file at <DVTFilePath:0x7fc99329e8e0:'/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app/Contents/embedded.provisionprofile'>" UserInfo={NSLocalizedDescription=No file at <DVTFilePath:0x7fc99329e8e0:'/var/folders/gf/x5lx47nj5yq10gmd_0j213dc0000gn/T/XcodeDistPipeline.~~~xzvUl8/Root/Applications/Gen Data.app/Contents/embedded.provisionprofile'>}
+2021-03-13 04:31:35 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-03-13 04:31:35 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
