@@ -11,10 +11,12 @@ import Cocoa
 class AppDelegate: NSObject, NSApplicationDelegate {
 
     
-
+    var activity: NSObjectProtocol?
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         // Insert code here to initialize your application
+        
+        activity = ProcessInfo().beginActivity(options: .userInitiatedAllowingIdleSystemSleep, reason: "Timer delay")
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
